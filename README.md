@@ -21,7 +21,6 @@ A professional, responsive task management application built to demonstrate mode
 - `index.html`: The semantic structure of the application.
 - `style.css`: Custom professional styling with a focus on UX/UI.
 - `script.js`: The core logic for task handling and data storage.
-- `database_schema.sql`: (Bonus) Proposed SQL schema for backend scaling.
 
 ## 🎯 Purpose
 This project was developed to showcase my ability to translate business requirements (task tracking) into a functional technical solution. It highlights my proficiency in **JavaScript** and my commitment to building clean, user-friendly IT tools.
